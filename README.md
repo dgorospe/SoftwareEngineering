@@ -4,4 +4,3 @@ The group consists of three students, each responsible for their own modules. My
 
 The website was created using HTML (used NotePad++), CSS, BootStrap, PHP, and MySQL (via phpMyAdmin).
 
-Note: Code files to be uploaded.
